@@ -1,0 +1,59 @@
+body{
+    background-image:url(bg.jpg);
+    background-size: cover;
+}
+.container{
+    width:800px;
+    height: 400px;
+    margin:100px 200px;
+    border: 1px solid black;
+    background: white;
+}
+h4{
+    text-align: center;
+    
+}
+.search_container{
+    height:20px;
+    text-align: center;
+
+
+}
+.notifi{
+    margin:100px;
+
+
+
+}
+.detail{
+    margin-top:100px;
+    margin-left: 200px;
+}
+input{
+    border-radius: 5px;
+    font-size: 19px;
+    border:1px solid rgb(0, 140, 255);
+
+}
+button{
+    width:50px;
+    height: 40px;
+    border-radius: 10px;
+    border:1px solid rgb(0, 140, 255);
+}
+i{
+    font-size: 28px;
+}
+.cloud i{
+    font-size: 52px;
+
+}
+.cloud{
+    margin-left: 175px;
+    margin-top:110px;
+}
+#weather{
+    margin-left: 150px;
+}
+
+
